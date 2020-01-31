@@ -17,3 +17,6 @@ Modern update to ANNs that exploit abundant cheap computation. They build much l
 - Stack Auto-Encoders
 - Deep Boltzmann Machine (DBM)
 - Deep Belief Networks (DBN)
+
+# References
+- Jason Brownlee's "A Tour or Machine Learning Algorithms"
